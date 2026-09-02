@@ -1,0 +1,17 @@
+# Build
+*.exe
+*.o
+*.obj
+*.out
+*.zip
+
+# Local notes (not part of the public project)
+docs/
+practice/
+*.pdf
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
